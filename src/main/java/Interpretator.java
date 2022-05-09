@@ -27,13 +27,15 @@ public class Interpretator {
 
     public Message convertMessage(String messageString) {
 
+        System.out.println("|" + "-".repeat(75) + "|\n");
+
         validator.validateByPattern(messageString);
 
         List<String> splitMessage = new LinkedList<>(Arrays.asList(messageString.split("[,*]")));
         String schemeName = splitMessage.remove(0).substring(1);
         String controlSum = splitMessage.remove(splitMessage.size() - 1);
 
-//        validator.validateByControlSum(messageString, controlSum);
+        validator.validateByControlSum(messageString, controlSum);
 
         Message message = new Message();
         message.setSchemeName(schemeName);

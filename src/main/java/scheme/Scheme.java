@@ -41,7 +41,7 @@ public class Scheme {
     public String toString() {
         StringBuilder schemeValues = new StringBuilder();
         messageParameterList.forEach(messageParameter -> schemeValues
-                .append(String.format("%s = %s \n", messageParameter.readableName, messageParameter.value)));
+                .append(String.format("\t%s = %s \n", messageParameter.readableName, messageParameter.value)));
         return "Назва схеми: " + schemeName + '\n' +
                 "Параметри: \n" + schemeValues;
     }
