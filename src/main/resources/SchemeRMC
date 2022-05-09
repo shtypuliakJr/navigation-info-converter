@@ -1,0 +1,12 @@
+TIME_URC: Время UTC в формате "ЧЧММСС.ССС"
+RELIABILITY_OF_THE_REVEIVED_COORDIMATES: Достоверность полученных координат
+LATIDUDE_FORMAT: Широта в формате "ГГММ.МММММ"
+LATIDUDE_DIRECTION: Направление широты
+LONGITUDE_FORMAT: Долгота в формате "ГГГММ.МММММ"
+LONGITUDE_DIRECTION: Направление долготы
+SPEED_IN_KNOTS: Скорость в узлах
+HEADING_TO_TRUE_POLE_IN_DEGREES: Курс на истинный полюс в градусах
+DATE: Дата в формате "ДДММГГ"
+MAGNETIC_DECLINATION_IN_DEGREES: Магнитное склонение в градусах
+DIRECTION_OF_MAGNETIC_DECLINATION: Направление магнитного склонения
+COORDINATE_CALCULATION_METHOD: Способ вычисления координат

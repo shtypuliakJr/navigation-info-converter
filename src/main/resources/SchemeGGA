@@ -1,0 +1,14 @@
+TIME_URC: Время UTC в формате "ЧЧММСС.ССС"
+LATITUDE_FORMAT: Широта в формате "ГГММ.МММММ"
+LATITUDE_DIRECTION: Направление широты
+LONGITUDE_FORMAT: Долгота в формате "ГГГММ.МММММ"
+LONGITUDE_DIRECTION: Направление долготы
+METHOD_FOR_CALCULATING_COORDINATES: Способ вычисления координат
+NUMBER_OF_ACTIVE_SATELLITES: Количество активных спутников
+HDOP: Горизонтальный геометрический фактор ухудшения точности
+HEIGHT_ABOVE_SEA_LEVEL_VALUE: Высота над уровнем моря
+HEIGHT_ABOVE_SEA_LEVEL: Высота над уровнем моря
+DIFFERENCE_BETWEEN_EARTH_ELLIPSOID_AND_SEA_LEVEL_VALUE: Разница между эллипсоидом земли и уровнем моря
+DIFFERENCE_BETWEEN_EARTH_ELLIPSOID_AND_SEA_LEVEL: Разница между эллипсоидом земли и уровнем моря
+THE_NUMBER_OF_SECONDS_SINCE_THE_LAST_DGPS_CORRECTION_WAS_RECEIVED: Количество секунд прошедших с получения последней DGPS поправки
+BASE_STATION_ID_PROVIDING_DGPS_CORRECTIONS: ID базовой станции предоставляющей DGPS поправки

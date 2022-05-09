@@ -1,0 +1,8 @@
+COURSE_TO_TRUE_POLE_IN_DEGREES: Курс на истинный полюс в градусах
+COURSE_VALIDITY_FLAG: Флаг достоверности курса
+MAGNETIC_DECLINATION_IN_DEGREES: Магнитное склонение в градусах
+IS_MAGNIT: Есть Магнитный
+SPEED_IN_KNOTS_VALUE: Скорость, единицы измерения скорости (значение)
+SPEED_IN_KNOTS: Скорость, единицы измерения скорости
+SPEED_IN_KMPH_VALUE: Скорость, единицы измерения скорости (значение)
+SPEED_IN_KMPH: Скорость, единицы измерения скорости
